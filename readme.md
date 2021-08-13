@@ -20,7 +20,7 @@ En la carpeta `notas/` encontrarás las notas del curso.
 
 **Repl** [https://replit.com/@DragonNomada](https://replit.com/@DragonNomada)
 
-## Contenido
+## Notas
 
 ### Node JS
 
